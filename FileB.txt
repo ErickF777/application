@@ -1,3 +1,5 @@
 This is file B
 
 A new line is added here for any changes.
+
+This is 3rd line that is added.
